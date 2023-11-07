@@ -1,4 +1,4 @@
-# Grafika-Dasar
+# Grafika-Primitif-Object 
  Titik, Garis Vertikal, Garis Horizontal, dan Vertikal + Horizontal
 
 ## Linker -> Parameter
